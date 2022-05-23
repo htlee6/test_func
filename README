@@ -1,2 +1,6 @@
 This is README
+<<<<<<< HEAD
 I dont want another line.
+=======
+Another line
+>>>>>>> 7faea760a284ee870c74549564c92405f3fcfce5
